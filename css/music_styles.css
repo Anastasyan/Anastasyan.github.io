@@ -10,10 +10,12 @@ body{
 	font-size:13px;
 	line-height:1.5em;
 	color:#fff;
-	background: url('../img/pexels_photo_900106.jpg') no-repeat;
+	background: url('../img/bg_image.jpeg') no-repeat;
   background-size: cover;
 }
-
+.go_back {
+	width: 50px;
+}
 
 .clearfix{
 	clear:both;
